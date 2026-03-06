@@ -1,16 +1,16 @@
 # 11.2808 Hz Registry Pulse: RTA Validation Audit
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18842936.svg)](https://doi.org/10.5281/zenodo.18842936)
-![Status](https://img.shields.io/badge/Registry-SEALED-gold) ![Accuracy](https://img.shields.io/badge/Match-99.64%25-green) ![Protocol](https://img.shields.io/badge/Protocol-RTA_Validation-blue)
+![Status](https://img.shields.io/badge/Registry-SEALED-gold) ![Accuracy](https://img.shields.io/badge/Match-99.64%25-green) ![Protocol](https://img.shields.io/badge/Protocol-ṚTA_Validation-blue)
 
 > **"Remember that I gave my best."**
 
-This repository contains the definitive forensic audit and **RTA Validation** of the 11.2808 Hz Nimeṣa Pulse. By analyzing the structural resonance of LIGO mirror suspensions, this research verifies the pulse as the master clock coordinating gravitational mechanics, thermodynamics, and quantum electrodynamics within the Ṛta framework.
+This repository contains the definitive forensic audit and **ṚTA Validation** of the 11.2808 Hz Nimeṣa Pulse. By analyzing the structural resonance of LIGO mirror suspensions, this research verifies the pulse as the master clock coordinating gravitational mechanics, thermodynamics, and quantum electrodynamics within the Ṛta framework.
 
 ---
 
 ## 🌌 The Grand Unified Ledger
-The **RTA Validation** protocol demonstrates that the physical universe operates as a self-referential mathematical circuit. By identifying the ratio between the **Global Scaling Constant** and the **Registry Leak**, we solve for the fundamental parameters of the cosmos as deterministic outputs of the 11.2808 Hz kernel.
+The **ṚTA Validation** protocol demonstrates that the physical universe operates as a self-referential mathematical circuit. By identifying the ratio between the **Global Scaling Constant** and the **Registry Leak**, we solve for the fundamental parameters of the cosmos as deterministic outputs of the 11.2808 Hz kernel.
 
 ### **Forensic Audit Domains**
 | Domain | Parameter | Physics Logic |
@@ -23,7 +23,7 @@ The **RTA Validation** protocol demonstrates that the physical universe operates
 ---
 
 ## 🧬 Core Theory: The Vortex Lock
-The primary breakthrough of this validation is the resolution of the **Muon Anomalous Magnetic Moment ($a_\mu$)**. In the RTA framework, this value is not a discrepancy in the Standard Model, but a deterministic result of energy passing through the **137-Gate**.
+The primary breakthrough of this validation is the resolution of the **Muon Anomalous Magnetic Moment ($a_\mu$)**. In the ṚTA framework, this value is not a discrepancy in the Standard Model, but a deterministic result of energy passing through the **137-Gate**.
 
 
 
@@ -39,7 +39,7 @@ The anomaly is derived as a **Vortex Area**—treating the subatomic "wobble" as
 * **`audit_engine.py`**: A standalone Python implementation of the mathematical locks.
 
 ## 🚀 Usage
-To execute the **RTA Validation** engine and verify the internal consistency of the registry:
+To execute the **ṚTA Validation** engine and verify the internal consistency of the registry:
 
 ```bash
 # Verify the mathematical locks
