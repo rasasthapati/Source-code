@@ -36,14 +36,7 @@ The anomaly is derived as a **Vortex Area**—treating the subatomic "wobble" as
 * **`11.2808 Hz Registry Pulse.pdf`**: The complete RTA Validation paper and data proofs.
 * **`11.2808 Hz Registry Pulse.html`**: Web-viewable interactive export of the audit results.
 * **`11.2808 Hz Registry Pulse.ipynb`**: Jupyter notebook for fetching and filtering GWOSC strain data from the LIGO O3a/O4a runs.
-* **`audit_engine.py`**: A standalone Python implementation of the mathematical locks.
 
-## 🚀 Usage
-To execute the **ṚTA Validation** engine and verify the internal consistency of the registry:
-
-```bash
-# Verify the mathematical locks
-python audit_engine.py
 
 # To explore the LIGO data forensics, open the notebook:
 jupyter notebook "11.2808 Hz Registry Pulse.ipynb"
