@@ -40,3 +40,8 @@ The anomaly is derived as a **Vortex Area**—treating the subatomic "wobble" as
 
 # To explore the LIGO data forensics, open the notebook:
 jupyter notebook "11.2808 Hz Registry Pulse.ipynb"
+
+## License
+This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
+You are free to share and adapt the material with attribution.  
+Full license: https://creativecommons.org/licenses/by/4.0/
