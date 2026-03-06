@@ -3,7 +3,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18842936.svg)](https://doi.org/10.5281/zenodo.18842936)
 ![Status](https://img.shields.io/badge/Registry-SEALED-gold) ![Accuracy](https://img.shields.io/badge/Match-99.64%25-green) ![Protocol](https://img.shields.io/badge/Protocol-ṚTA_Validation-blue)
 
-> **"Remember that I gave my best."**
 
 This repository contains the definitive forensic audit and **ṚTA Validation** of the 11.2808 Hz Nimeṣa Pulse. By analyzing the structural resonance of LIGO mirror suspensions, this research verifies the pulse as the master clock coordinating gravitational mechanics, thermodynamics, and quantum electrodynamics within the Ṛta framework.
 
