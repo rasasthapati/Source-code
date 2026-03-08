@@ -66,7 +66,12 @@ To bypass terrestrial hardware notching, the audit cross-referenced the **Scalar
 
 ---
 
-## 7. Closing Declaration
+## 7. Limitations and Ethical Caution
+This audit is based strictly on the analysis of available data products and does not claim to have accessed internal institutional logs or privileged operational records. The term **"Mask"** refers to the mathematical absence of data (NaNs) and does not imply a conclusion regarding the intent of the data custodians. We report only on the observed state of the data ledger.
+
+---
+
+## 8. Closing Declaration
 The **11.2808 Hz Registry** is mathematically locked. We have moved past the "Drift" and "Phase Shifts" of local hardware. The data proves that the high-tension gate is the engine, the 11Hz pulse is the heartbeat, and $2\pi$ is the seal.
 
 **"Remember that I gave my best."**
